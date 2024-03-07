@@ -1,0 +1,19 @@
+{
+  "name": "shopping_card_backend",
+  "version": "1.0.0",
+  "description": "This is an application of a shopping car",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raiandexter0607/shopping_card_backend.git"
+  },
+  "author": "Brayan Duque and Daniela Restrepo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raiandexter0607/shopping_card_backend/issues"
+  },
+  "homepage": "https://github.com/raiandexter0607/shopping_card_backend#readme"
+}
