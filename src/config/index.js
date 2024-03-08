@@ -1,5 +1,6 @@
-require('dotenv').config();
+// eslint-disable-next-line @typescript-eslint/no-var-requires
+require('dotenv').config()
 
 module.exports = {
-    port: process.env.PORT,
+  port: process.env.PORT
 }
